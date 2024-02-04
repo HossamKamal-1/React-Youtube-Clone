@@ -1,70 +1,132 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  <img  src="https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/dc10d80b-f1f9-452a-bfc7-1c07de8fb4e6" height="200"/>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
+# Hi, I'm Hossam! 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  About Me
+I'm front-end
+developer with a passion for
+creating beautiful and
+responsive websites. I love
+collaborating with others to
+create innovative and impactful
+projects, and I'm always eager
+to learn new skills and explore
+new front-end frameworks and
+technologies.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Youtube Clone
 
-### `npm run build`
+This project is a React-based clone of the popular video-sharing platform, YouTube. It provides users with a familiar and intuitive interface, allowing them to browse, search for, and watch videos seamlessly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Client(Front-End):** ReactJS and MaterialUI.
 
-### `npm run eject`
+Check out more dependencies at: 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://github.com/HossamKamal-1/React-Youtube-Clone/blob/main/package.json
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Responsive Design.
+- Search Functionality.
+- Video Playback
 
-## Learn More
+## Environment Variables
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To run this project, you will need to add the following environment variables to your .env file
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`REACT_APP_RAPID_API_KEY = YOUR_API_KEY`
 
-### Code Splitting
+Get your api key from RapidAPI : https://rapidapi.com/ytdlfree/api/youtube-v31
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Prerequisites
+This project uses NPM as a package manager
+NodeJs Download Link: https://nodejs.org/en/download
+## Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Clone the project
 
-### Making a Progressive Web App
+```bash
+git clone https://github.com/HossamKamal-1/React-Youtube-Clone.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Go to the project directory
 
-### Advanced Configuration
+```bash
+cd React-Youtube-Clone
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Install dependencies
 
-### Deployment
+```bash
+npm i
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Start the server
 
-### `npm run build` fails to minify
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Deployment
+
+To deploy this project run
+
+```bash
+npm run build
+```
+
+
+## Screenshots
+
+`Home Page:`
+
+![youtubeclone screenshot1](https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/bc83f01a-c211-472c-9784-9a60a3c19052)
+
+`Channel Page:`
+
+![youtubeclone screenshot2](https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/27d1bb76-6eaa-4b94-bf19-4ff927731bb6)
+
+`Search Page:`
+
+![youtubeclone screenshot3](https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/ebb96cec-4bec-491e-bfd4-4f88bc018340)
+
+`Video Page:`
+
+![youtubeclone screenshot4](https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/5bd0d546-5aa7-4521-9fa4-3ffad576f6e0)
+
+
+## Demo
+
+Netlify Demo:
+
+https://heroic-lebkuchen-b1706f.netlify.app/
+
+gif:
+
+![ezgif-7-cd1d36bb18](https://github.com/HossamKamal-1/React-Youtube-Clone/assets/99696657/d82bfafe-1716-4ec2-adcc-ea09dff9d913)
+
+
+
+
+
+
+## FAQ
+
+#### What dependencies were used to develop the project?
+
+Check the full dependencies here: 
+https://github.com/HossamKamal-1/React-Youtube-Clone/blob/main/package.json
+
