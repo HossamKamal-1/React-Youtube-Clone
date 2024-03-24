@@ -112,7 +112,7 @@ npm run build
 
 Netlify Demo:
 
-https://heroic-lebkuchen-b1706f.netlify.app/
+https://ytube-react-clone.netlify.app/
 
 gif:
 
